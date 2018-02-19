@@ -1,7 +1,6 @@
 /*
 	 Berat Biçer
 	 19.02.2018
-	 Picus - AlanTuringsBirthday Challange
 	 email: beratbbicer@gmail.com
 */
 
