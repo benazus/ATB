@@ -1,3 +1,1 @@
-Alan Turing's Birthday - Picus Security Challenge
-
-Link: https://github.com/picussecurity/picus-challenge-questions/blob/master/backend/AlanTuringsBirthday.md
+Find, with ~3% accuracy, 30-digit binary-compatible decimal primes whose sum of digits is also a prime.
