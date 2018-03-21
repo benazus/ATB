@@ -1,1 +1,2 @@
-Find, with ~3% accuracy, 30-digit binary-compatible decimal primes
+Alan Turing's Birthday - Picus Security Challenge
+Link: https://github.com/picussecurity/picus-challenge-questions/blob/master/backend/AlanTuringsBirthday.md
